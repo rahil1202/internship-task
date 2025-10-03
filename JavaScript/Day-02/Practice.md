@@ -7,7 +7,6 @@
 2. Write a grading system using `if/else`.
 3. Check if a number is divisible by both 3 and 5.
 4. Print numbers from 1 to 50 using a `for` loop.
-5. Write a program to check if a number is prime.
 6. Count even and odd numbers between 1–100.
 7. Create a multiplication table using `for`.
 8. Use `switch` to print the day name for numbers (1–7).
