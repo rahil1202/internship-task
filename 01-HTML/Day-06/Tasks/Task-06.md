@@ -1,10 +1,3 @@
-Excellent — now we’re ready to move beyond “toy examples” into practical, slightly challenging **HTML mini-projects**.
-These tasks will combine everything you’ve learned so far — forms, tables, lists, divs, spans, headings, semantic tags, and basic CSS (just enough for structure and neatness).
-
-Here are **5 medium-level tasks** your interns can do.
-Each task includes a short description, what concepts it tests, and a starting code snippet for guidance.
-
----
 
 ## 🧩 Task 1: Student Registration Form
 
