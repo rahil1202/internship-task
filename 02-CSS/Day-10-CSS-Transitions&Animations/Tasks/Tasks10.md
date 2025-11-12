@@ -218,8 +218,8 @@ https://github.com/user-attachments/assets/ee6edf3e-e625-4da8-9c30-598e4b4a3f2a
 ```
 ### Output
 
-https://github.com/user-attachments/assets/ed06e01d-e7b5-4644-b247-2a0ba13e4aef
 
+https://github.com/user-attachments/assets/efc9b22c-f984-4f0b-9a2d-5c2098f926a4
 
 ✅ **What it shows:** Looping `scale()` for a pulsing “heartbeat.”
 💡 Used for “Like” icons, notifications, or playful elements.
@@ -360,4 +360,5 @@ https://github.com/user-attachments/assets/ecda77a4-77b5-4ad8-8f6e-877c66111a1c
 ---
 
 💡 **Pro tip:** Always pair animation with *purpose* — motion should guide attention, not distract it.
+
 
