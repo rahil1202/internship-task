@@ -68,14 +68,14 @@ Same description document as other lists:
 
 ## 🏢 Company Information
 
-**Company Name:** The One Branding
-**Contact Person:** Faizal Vahora
-**Phone:** +91 81609-21279
-**Email:** [info@theonebranding.com](mailto:info@theonebranding.com)
+**Company Name:** The One Branding </br>
+**Contact Person:** Faizal Vahora </br>
+**Phone:** +91 81609-21279 </br>
+**Email:** [info@theonebranding.com](mailto:info@theonebranding.com) </br>
 **Address:**
 T-3, Third Floor, Central Hub,
 Opp. A-1 Hall, 100 Ft Road,
 Anand – 388001
-
+</br>
 ---
 
