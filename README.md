@@ -18,7 +18,14 @@ List of all students, their batch, and assigned project names:
 Details of every project mentioned in the sheet:
 **Link:** [https://docs.google.com/document/d/1iM30u189eWVZf2MLS5x-T_Cdgj4G3oZMgRbTax_jbnU/edit?usp=sharing](https://docs.google.com/document/d/1iM30u189eWVZf2MLS5x-T_Cdgj4G3oZMgRbTax_jbnU/edit?usp=sharing)
 
+### **Internship Duration**
+
+* **Start Date:** 25 October 2025
+* **End Date:** 27 November 2025
+
 ---
+---
+
 
 ## 📌 St. Stephen and M.B. Patel – Project List (#2)
 
@@ -37,6 +44,7 @@ Shared description document for all project titles:
 * **Start Date:** 4 November 2025
 * **End Date:** 3 December 2025
 
+---
 ---
 
 ## 📌 SPEC – Project List (#3)
