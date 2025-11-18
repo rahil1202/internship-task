@@ -6,6 +6,25 @@ Each section includes links to the project sheets and the common project descrip
 
 ---
 
+## 🏢 Company Information
+
+**Company Name:** The One Branding </br>
+**Contact Person:** Faizal Vahora </br>
+**Phone:** +91 81609-21279 </br>
+**Email:** [info@theonebranding.com](mailto:info@theonebranding.com) </br>
+**Address:**
+T-3, Third Floor, Central Hub,
+Opp. A-1 Hall, 100 Ft Road,
+Anand – 388001
+</br>
+**LinkedIn Profile**
+https://www.linkedin.com/company/theonebranding/
+</br>
+**Github Profile**
+https://github.com/The-One-Branding
+</br>
+
+---
 ## 📌 C.P. Patel – Project List (#1)
 
 ### **Project Sheet**
@@ -66,22 +85,6 @@ Same description document as other lists:
 
 ---
 
-## 🏢 Company Information
 
-**Company Name:** The One Branding </br>
-**Contact Person:** Faizal Vahora </br>
-**Phone:** +91 81609-21279 </br>
-**Email:** [info@theonebranding.com](mailto:info@theonebranding.com) </br>
-**Address:**
-T-3, Third Floor, Central Hub,
-Opp. A-1 Hall, 100 Ft Road,
-Anand – 388001
-</br>
-**LinkedIn Profile**
-https://www.linkedin.com/company/theonebranding/
-</br>
-**Github Profile**
-https://github.com/The-One-Branding
-</br>
 ---
 
