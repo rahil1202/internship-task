@@ -5,6 +5,7 @@ This repository contains project allocations and descriptions for interns across
 Each section includes links to the project sheets and the common project description document, along with internship schedule and company information.
 
 ---
+---
 
 ## 🏢 Company Information
 
