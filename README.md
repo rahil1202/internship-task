@@ -77,5 +77,11 @@ T-3, Third Floor, Central Hub,
 Opp. A-1 Hall, 100 Ft Road,
 Anand – 388001
 </br>
+**LinkedIn Profile**
+https://www.linkedin.com/company/theonebranding/
+</br>
+**Github Profile**
+https://github.com/The-One-Branding
+</br>
 ---
 
