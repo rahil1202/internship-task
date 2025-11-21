@@ -20,15 +20,7 @@ Ask the user for their age and check:
 
 ### 💻 Code
 
-```js
-let age = Number(prompt("Enter your age:"));
 
-if (age >= 18) {
-  console.log("You are an Adult.");
-} else {
-  console.log("You are a Minor.");
-}
-```
 
 ---
 
@@ -49,19 +41,7 @@ Chained conditions.
 
 ### 💻 Code
 
-```js
-let marks = Number(prompt("Enter your marks:"));
 
-if (marks >= 90) {
-  console.log("Grade A");
-} else if (marks >= 75) {
-  console.log("Grade B");
-} else if (marks >= 50) {
-  console.log("Grade C");
-} else {
-  console.log("Fail");
-}
-```
 
 ---
 
@@ -83,28 +63,7 @@ Perform operation.
 
 ### 💻 Code
 
-```js
-let a = Number(prompt("Enter number 1:"));
-let b = Number(prompt("Enter number 2:"));
-let op = prompt("Enter operator (+, -, *, /):");
 
-switch (op) {
-  case "+":
-    console.log(a + b);
-    break;
-  case "-":
-    console.log(a - b);
-    break;
-  case "*":
-    console.log(a * b);
-    break;
-  case "/":
-    console.log(a / b);
-    break;
-  default:
-    console.log("Invalid Operator");
-}
-```
 
 ---
 
@@ -120,15 +79,7 @@ Functions, return, parameters.
 
 ### 💻 Code
 
-```js
-function maxOfThree(a, b, c) {
-  if (a >= b && a >= c) return a;
-  if (b >= a && b >= c) return b;
-  return c;
-}
 
-console.log(maxOfThree(10, 25, 15));
-```
 
 ---
 
@@ -146,14 +97,7 @@ Default values + return.
 
 ### 💻 Code
 
-```js
-function calculate(price, qty, tax = 0.18) {
-  let subtotal = price * qty;
-  return subtotal + subtotal * tax;
-}
 
-console.log(calculate(1000, 2)); // tax default = 18%
-```
 
 ---
 
@@ -169,13 +113,6 @@ Arrow functions.
 
 ### 💻 Code
 
-```js
-const greet = (name) => {
-  console.log("Hello " + name + "!");
-};
-
-greet("Rahil");
-```
 
 ---
 
@@ -193,19 +130,7 @@ Loops + return + conditions.
 
 ### 💻 Code
 
-```js
-function isPrime(n) {
-  if (n <= 1) return "Not Prime";
 
-  for (let i = 2; i < n; i++) {
-    if (n % i === 0) return "Not Prime";
-  }
-
-  return "Prime";
-}
-
-console.log(isPrime(17));
-```
 
 ---
 
@@ -222,13 +147,6 @@ Function expressions, operators.
 
 ### 💻 Code
 
-```js
-const total = function(price, qty) {
-  return price * qty;
-};
-
-console.log(total(500, 3));
-```
 
 ---
 
@@ -255,19 +173,7 @@ Recursion.
 
 ### 💻 Code
 
-```js
-function countDown(n) {
-  if (n === 0) {
-    console.log("Done!");
-    return;
-  }
 
-  console.log(n);
-  countDown(n - 1);
-}
-
-countDown(5);
-```
 
 ---
 
@@ -288,14 +194,7 @@ Recursion, return.
 
 ### 💻 Code
 
-```js
-function sum(n) {
-  if (n === 1) return 1;
-  return n + sum(n - 1);
-}
-
-console.log(sum(5)); // 15
-```
 
 ---
+
 
