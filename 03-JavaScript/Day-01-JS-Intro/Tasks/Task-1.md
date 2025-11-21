@@ -15,12 +15,7 @@ Learn how to accept user input and display output.
 
 Ask the user for their name and greet them with a friendly message.
 
-### 💻 Code
 
-```js
-let name = prompt("Enter your name:");
-console.log("Hello " + name + "! Nice to meet you.");
-```
 
 ---
 
@@ -34,15 +29,7 @@ Practice converting input (string) → number and performing arithmetic.
 
 Online billing calculators or total price calculators.
 
-### 💻 Code
 
-```js
-let a = Number(prompt("Enter first number:"));
-let b = Number(prompt("Enter second number:"));
-let sum = a + b;
-
-console.log("The sum is:", sum);
-```
 
 ---
 
@@ -52,17 +39,8 @@ console.log("The sum is:", sum);
 
 Understanding conditionals + modulus operator.
 
-### 💻 Code
 
-```js
-let num = Number(prompt("Enter a number:"));
 
-if (num % 2 === 0) {
-  console.log(num + " is Even");
-} else {
-  console.log(num + " is Odd");
-}
-```
 
 ---
 
@@ -72,21 +50,7 @@ if (num % 2 === 0) {
 
 Learn variable reassignment and arithmetic tricks.
 
-### 💻 Code
 
-```js
-let x = 10;
-let y = 20;
-
-console.log("Before:", x, y);
-
-// Swap logic:
-x = x + y;  
-y = x - y;
-x = x - y;
-
-console.log("After:", x, y);
-```
 
 ---
 
@@ -100,17 +64,7 @@ Introduce basic object and array use.
 
 Profiles in apps like LinkedIn, student portals, dashboards.
 
-### 💻 Code
 
-```js
-let student = {
-  name: "Rahil",
-  age: 20,
-  subjects: ["HTML", "CSS", "JS"]
-};
-
-console.log(student);
-```
 
 ---
 
@@ -124,17 +78,7 @@ Use boolean variables + conditional logic.
 
 Login/logout systems, access control.
 
-### 💻 Code
 
-```js
-let isLoggedIn = false;
-
-if (isLoggedIn) {
-  console.log("Welcome back!");
-} else {
-  console.log("Please login to continue.");
-}
-```
 
 ---
 
@@ -146,15 +90,7 @@ Use input/output + comparison operators.
 
 ### 💻 Code
 
-```js
-let age = Number(prompt("Enter your age:"));
 
-if (age >= 18) {
-  console.log("You are eligible to vote.");
-} else {
-  console.log("You are not eligible to vote.");
-}
-```
 
 ---
 
@@ -168,19 +104,7 @@ Practice arithmetic + logic.
 
 Billing systems, carts, online shopping.
 
-### 💻 Code
 
-```js
-let amount = Number(prompt("Enter total amount:"));
-let discount = 0;
-
-if (amount > 1000) {
-  discount = amount * 0.10; // 10% discount
-}
-
-let finalPrice = amount - discount;
-console.log("Final bill:", finalPrice);
-```
 
 ---
 
@@ -194,14 +118,7 @@ Practice formulas and operator usage.
 
 °F = (°C × 9/5) + 32
 
-### 💻 Code
 
-```js
-let celsius = Number(prompt("Enter temperature in Celsius:"));
-let fahrenheit = (celsius * 9/5) + 32;
-
-console.log("Temperature in Fahrenheit:", fahrenheit);
-```
 
 ---
 
@@ -220,21 +137,7 @@ Combine everything:
 
 E-commerce product management.
 
-### 💻 Code
 
-```js
-let product = {
-  name: "Laptop",
-  price: 50000,
-  quantity: 2
-};
-
-let total = product.price * product.quantity;
-
-console.log("Product:", product.name);
-console.log("Quantity:", product.quantity);
-console.log("Total Price:", total);
-```
 
 ---
 
@@ -248,15 +151,6 @@ console.log("Total Price:", total);
 * division
 * remainder
 
-```js
-let a = Number(prompt("Enter first number:"));
-let b = Number(prompt("Enter second number:"));
 
-console.log("Sum:", a + b);
-console.log("Difference:", a - b);
-console.log("Multiply:", a * b);
-console.log("Divide:", a / b);
-console.log("Remainder:", a % b);
-```
 
 ---
